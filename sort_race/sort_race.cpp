@@ -37,7 +37,7 @@ int main()
         auto& data = ds.data;
         RUN(std_sort);
         //BaveevTeam
-        RUN(MergeSort_by_Badeev);
+        RUN(int_QuickSortKnyazkin);
         //run your method here
 
 
@@ -51,7 +51,7 @@ int main()
         auto& data = ds.data;
         RUN(sort_for_integers_only);
         //BaveevTeam
-        RUN(MergeSort_by_Badeev);
+       // RUN(double_QuickSortKnyazkin);
         //run your method here
 
 
